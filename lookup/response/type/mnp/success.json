@@ -1,0 +1,14 @@
+{
+  "code": 100,
+  "mnp": {
+    "country": "DE",
+    "international_formatted": "+49 177 1783130",
+    "isPorted": false,
+    "mccmnc": "26203",
+    "national_format": "0177 1783130",
+    "network": "Telefónica Germany GmbH & Co. oHG (O2)",
+    "number": "+491771783130"
+  },
+  "price": 0.005,
+  "success": true
+}

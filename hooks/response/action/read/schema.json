@@ -1,0 +1,34 @@
+{
+  "properties": {
+    "hooks": {
+      "items": {
+        "properties": {
+          "created": {
+            "type": "string"
+          },
+          "event_type": {
+            "pattern": "\\b(sms_mo|dlr|voice_status)",
+            "type": "string"
+          },
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "request_method": {
+            "pattern": "\\b(GET|POST)",
+            "type": "string"
+          },
+          "target_url": {
+            "type": "string"
+          }
+        },
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "success": {
+      "type": "boolean"
+    }
+  },
+  "type": "object"
+}

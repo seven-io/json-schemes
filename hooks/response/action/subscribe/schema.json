@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "success": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "success"
+  ],
+  "type": "object"
+}

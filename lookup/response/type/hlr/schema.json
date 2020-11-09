@@ -1,0 +1,88 @@
+{
+  "definitions": {
+    "carrier": {
+      "properties": {
+        "country": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "network_code": {
+          "type": "string"
+        },
+        "network_type": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "country",
+        "name",
+        "network_code",
+        "network_type"
+      ],
+      "type": "object"
+    }
+  },
+  "properties": {
+    "country_code": {
+      "type": "string"
+    },
+    "country_name": {
+      "type": "string"
+    },
+    "country_prefix": {
+      "type": "string"
+    },
+    "current_carrier": {
+      "$ref": "#/definitions/carrier"
+    },
+    "lookup_outcome": {
+      "type": "boolean"
+    },
+    "lookup_outcome_message": {
+      "type": "string"
+    },
+    "gsm_code": {
+      "type": "string"
+    },
+    "gsm_message": {
+      "type": "string"
+    },
+    "international_format_number": {
+      "type": "string"
+    },
+    "international_formatted": {
+      "type": "string"
+    },
+    "national_format_number": {
+      "type": "string"
+    },
+    "original_carrier": {
+      "$ref": "#/definitions/carrier"
+    },
+    "ported": {
+      "pattern": "\\b(unknown|ported|not_ported|assumed_not_ported|assumed_ported)",
+      "type": "string"
+    },
+    "reachable": {
+      "pattern": "\\b(unknown|reachable|undeliverable|absent|bad_number|blacklisted)",
+      "type": "string"
+    },
+    "roaming": {
+      "type": "string"
+    },
+    "status": {
+      "type": "boolean"
+    },
+    "status_message": {
+      "pattern": "\\b(error|success)",
+      "type": "string"
+    },
+    "valid_number": {
+      "pattern": "\\b(unknown|valid|not_valid)",
+      "type": "string"
+    }
+  },
+  "type": "object"
+}

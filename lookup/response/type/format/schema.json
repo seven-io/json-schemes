@@ -1,0 +1,32 @@
+{
+  "properties": {
+    "carrier": {
+      "type": "string"
+    },
+    "country_code": {
+      "type": "string"
+    },
+    "country_iso": {
+      "type": "string"
+    },
+    "country_name": {
+      "type": "string"
+    },
+    "international": {
+      "type": "string"
+    },
+    "international_formatted": {
+      "type": "string"
+    },
+    "national": {
+      "type": "string"
+    },
+    "network_type": {
+      "type": "string"
+    },
+    "success": {
+      "type": "boolean"
+    }
+  },
+  "type": "object"
+}

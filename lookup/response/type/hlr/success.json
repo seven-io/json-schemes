@@ -1,0 +1,30 @@
+{
+  "country_code": "DE",
+  "country_name": "Germany",
+  "country_prefix": "49",
+  "current_carrier": {
+    "country": "DE",
+    "name": "Telefónica Germany GmbH & Co. oHG (O2)",
+    "network_code": "26203",
+    "network_type": "mobile"
+  },
+  "international_format_number": "491771783130",
+  "international_formatted": "+49 177 1783130",
+  "lookup_outcome": true,
+  "lookup_outcome_message": "success",
+  "national_format_number": "0177 1783130",
+  "original_carrier": {
+    "country": "DE",
+    "name": "Telefónica Germany GmbH & Co. oHG (O2)",
+    "network_code": "26203",
+    "network_type": "mobile"
+  },
+  "status": true,
+  "status_message": "success",
+  "gsm_code": "0",
+  "gsm_message": "No error",
+  "ported": "assumed_not_ported",
+  "reachable": "reachable",
+  "roaming": "not_roaming",
+  "valid_number": "valid"
+}

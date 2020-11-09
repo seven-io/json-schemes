@@ -1,0 +1,85 @@
+{
+  "required": [
+    "countCountries",
+    "countNetworks",
+    "countries"
+  ],
+  "type": "object",
+  "properties": {
+    "countCountries": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "countNetworks": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "required": [
+          "countryCode",
+          "countryName",
+          "countryPrefix",
+          "networks"
+        ],
+        "type": "object",
+        "properties": {
+          "countryCode": {
+            "type": "string"
+          },
+          "countryName": {
+            "type": "string",
+            "minLength": 1
+          },
+          "countryPrefix": {
+            "type": "string"
+          },
+          "networks": {
+            "type": "array",
+            "items": {
+              "required": [
+                "mcc",
+                "mncs",
+                "networkName",
+                "price",
+                "features",
+                "comment"
+              ],
+              "type": "object",
+              "properties": {
+                "mcc": {
+                  "type": "string"
+                },
+                "mncs": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "networkName": {
+                  "type": "string"
+                },
+                "price": {
+                  "type": "number",
+                  "minimum": 0
+                },
+                "features": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "comment": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

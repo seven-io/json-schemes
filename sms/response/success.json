@@ -1,0 +1,21 @@
+{
+  "balance": 17.23,
+  "debug": "true",
+  "messages": [
+    {
+      "encoding": "gsm",
+      "error": null,
+      "error_text": null,
+      "id": null,
+      "parts": 1,
+      "price": 0,
+      "recipient": "491771783130",
+      "sender": "SMS",
+      "success": true,
+      "text": "Dear customer. We want to say thanks for your trust. Use code MINUS10 for 10 % discount on your next order!"
+    }
+  ],
+  "sms_type": "direct",
+  "success": "100",
+  "total_price": 0
+}

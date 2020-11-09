@@ -1,0 +1,48 @@
+{
+  "items": {
+    "properties": {
+      "date": {
+        "format": "date",
+        "type": "string"
+      },
+      "direct": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "economy": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "hlr": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "inbound": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "mnp": {
+        "minimum": 0,
+        "type": "integer"
+      },
+      "usage_eur": {
+        "type": "number"
+      },
+      "voice": {
+        "minimum": 0,
+        "type": "integer"
+      }
+    },
+    "required": [
+      "direct",
+      "economy",
+      "hlr",
+      "inbound",
+      "mnp",
+      "usage_eur",
+      "voice"
+    ],
+    "type": "object"
+  },
+  "type": "array"
+}

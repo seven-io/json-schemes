@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "code": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "success": {
+      "pattern": "\\b(false|true)",
+      "type": "string"
+    }
+  },
+  "type": "object"
+}

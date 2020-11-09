@@ -1,0 +1,39 @@
+{
+  "required": [
+    "success"
+  ],
+  "type": "object",
+  "properties": {
+    "success": {
+      "type": "boolean"
+    },
+    "id": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "sender": {
+      "type": "string",
+      "minLength": 1
+    },
+    "formatted_output": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "error": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "voice": {
+      "type": "boolean"
+    }
+  }
+}

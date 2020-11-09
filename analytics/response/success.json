@@ -1,0 +1,312 @@
+[
+  {
+    "date": "2020-10-06",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-07",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-08",
+    "direct": 14,
+    "economy": 0,
+    "hlr": 3,
+    "inbound": 0,
+    "mnp": 9,
+    "usage_eur": 1.1325,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-09",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-10",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-11",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-12",
+    "direct": 9,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.675,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-13",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-14",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.225,
+    "voice": 1
+  },
+  {
+    "date": "2020-10-15",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 1,
+    "usage_eur": 0.155,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-16",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-17",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-18",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-19",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-20",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-21",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-22",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 5,
+    "usage_eur": 0.175,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-23",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-24",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-25",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-26",
+    "direct": 1,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.075,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-27",
+    "direct": 2,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0.15,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-28",
+    "direct": 6,
+    "economy": 0,
+    "hlr": 3,
+    "inbound": 0,
+    "mnp": 9,
+    "usage_eur": 0.6975,
+    "voice": 2
+  },
+  {
+    "date": "2020-10-29",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 1,
+    "inbound": 0,
+    "mnp": 2,
+    "usage_eur": 0.0275,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-30",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0,
+    "voice": 0
+  },
+  {
+    "date": "2020-10-31",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0,
+    "voice": 0
+  },
+  {
+    "date": "2020-11-01",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0,
+    "voice": 0
+  },
+  {
+    "date": "2020-11-02",
+    "direct": 4,
+    "economy": 0,
+    "hlr": 1,
+    "inbound": 0,
+    "mnp": 2,
+    "usage_eur": 0.3275,
+    "voice": 2
+  },
+  {
+    "date": "2020-11-03",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 0,
+    "usage_eur": 0,
+    "voice": 0
+  },
+  {
+    "date": "2020-11-04",
+    "direct": 11,
+    "economy": 0,
+    "hlr": 1,
+    "inbound": 0,
+    "mnp": 2,
+    "usage_eur": 1.01,
+    "voice": 2
+  },
+  {
+    "date": "2020-11-05",
+    "direct": 0,
+    "economy": 0,
+    "hlr": 0,
+    "inbound": 0,
+    "mnp": 4,
+    "usage_eur": 0.065,
+    "voice": 0
+  }
+]
