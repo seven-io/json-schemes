@@ -4,19 +4,19 @@
   "country_prefix": "49",
   "current_carrier": {
     "country": "DE",
-    "name": "Telefónica Germany GmbH & Co. oHG (O2)",
-    "network_code": "26203",
+    "name": "Telekom Deutschland GmbH (Telekom)",
+    "network_code": "26201",
     "network_type": "mobile"
   },
-  "international_format_number": "491771783130",
-  "international_formatted": "+49 177 1783130",
+  "international_format_number": "491716992343",
+  "international_formatted": "+49 171 6992343",
   "lookup_outcome": true,
   "lookup_outcome_message": "success",
-  "national_format_number": "0177 1783130",
+  "national_format_number": "0171 6992343",
   "original_carrier": {
     "country": "DE",
-    "name": "Telefónica Germany GmbH & Co. oHG (O2)",
-    "network_code": "26203",
+    "name": "Telekom Deutschland GmbH (Telekom)",
+    "network_code": "26201",
     "network_type": "mobile"
   },
   "status": true,

@@ -7,12 +7,15 @@
       "error": null,
       "error_text": null,
       "id": null,
+      "is_binary": false,
+      "label": null,
       "parts": 1,
       "price": 0,
-      "recipient": "491771783130",
+      "recipient": "491716992343",
       "sender": "SMS",
       "success": true,
-      "text": "Dear customer. We want to say thanks for your trust. Use code MINUS10 for 10 % discount on your next order!"
+      "text": "Dear customer. We want to say thanks for your trust. Use code MINUS10 for 10 % discount on your next order!",
+      "udh": null
     }
   ],
   "sms_type": "direct",
