@@ -3,10 +3,6 @@
     "balance": {
       "type": "number"
     },
-    "debug": {
-      "pattern": "\\b(false|true)",
-      "type": "string"
-    },
     "messages": {
       "items": {
         "properties": {
